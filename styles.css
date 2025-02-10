@@ -24,7 +24,7 @@ text-decoration: underline;
 color:#08340e;
 
 }
- a:active {
+ #l1 a:active {
 text-decoration: underline;
 background-color: #fefbe9;
 }
